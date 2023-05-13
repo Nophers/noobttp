@@ -882,4 +882,4 @@ Sending request to https://jsonplaceholder.typicode.com/todos/
   },
 ```
 
-© EasyAxios 2023, MIT Licence, by @vKxni.
+© NoobTTP 2023, MIT Licence, by @vKxni.
